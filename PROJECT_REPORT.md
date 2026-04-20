@@ -2,7 +2,7 @@
 Full-Stack E-Commerce System
 Project Report
 
-Prepared By: Anupam Kumar
+Prepared By: Utkarsh Chaturvedi
 Date: March 2026
 
 ---
